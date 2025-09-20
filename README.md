@@ -10,6 +10,15 @@
 </p>
 
 ---
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/joshuadev101" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <!-- Badges -->
 <p align="center">
@@ -33,6 +42,19 @@
 
 ---
 
+## 🏆 Achievements & Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazonaws" alt="AWS CCP" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure" alt="Azure AZ-900" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-orange?style=for-the-badge&logo=googlecloud" alt="GCP Digital Leader" />
+</p>
+
+💡 *Working towards:*  
+- 🎯 **AWS Solutions Architect – Associate**  
+- 🎯 **Kubernetes Certified Administrator (CKA)**  
+
+---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,git,github,linux,python,bash,java,cs,php,mysql,flutter,html,css,js" />
@@ -49,18 +71,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadev101&layout=compact&theme=radical" alt="top langs" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joshuadev101&theme=radical" alt="GitHub Streak" />
-</p>
+--
 
----
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuadev101&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 <p align="left">
