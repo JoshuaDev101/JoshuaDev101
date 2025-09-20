@@ -4,6 +4,13 @@
 
 ---
 
+<!-- Animated typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%7C+DevOps+Enthusiast;AWS+%2B+Azure+%2B+GCP;Always+learning+new+technologies+🚀;Let's+build+something+amazing+🌟" alt="Typing Animation" />
+</p>
+
+---
+
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joshuadev101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -28,10 +35,10 @@
 
 <!-- About Section -->
 ### 🌟 About Me
-- 🔭 I’m currently working on **Cloud Infrastructure & DevOps Projects**  
-- 🌱 I’m learning **Kubernetes, Terraform & Multi-cloud Strategies**  
-- 👯 I’m looking to collaborate on **Open Source & Cloud Projects**  
-- ⚡ Fun fact: I love building side projects and playing with **new tech stacks** 🚀  
+- 🔭 Currently working on **Cloud Infrastructure & DevOps Projects**  
+- 🌱 Learning **Kubernetes, Terraform & Multi-cloud Strategies**  
+- 👯 Open to collaborating on **Open Source & Cloud Projects**  
+- ⚡ Fun fact: I enjoy building side projects & experimenting with **new stacks** 🎯  
 
 ---
 
@@ -39,10 +46,10 @@
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/joshuadev101" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -69,6 +76,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joshuadev101&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuadev101&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
