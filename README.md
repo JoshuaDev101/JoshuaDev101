@@ -11,15 +11,6 @@
 
 ---
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuadev101/joshuadev101/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshuadev101/joshuadev101/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/joshuadev101/joshuadev101/output/github-snake.svg" />
-</picture>
-
----
-
 ## 🌟 About Me
 ```
 📚 Student on a cloud journey
@@ -49,6 +40,18 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuadev101&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadev101&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="top langs" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuadev101&theme=tokyonight&border_radius=10&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/joshuadev101" target="blank">
@@ -64,18 +67,6 @@
   <a href="https://github.com/joshuadev101?tab=followers">
     <img src="https://img.shields.io/github/followers/joshuadev101?label=Followers&style=social" alt="followers" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuadev101&show_icons=true&theme=tokyonight&border_radius=10" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadev101&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuadev101&theme=tokyonight&border_radius=10" alt="streak stats" />
 </p>
 
 ---
