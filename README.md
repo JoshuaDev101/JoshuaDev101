@@ -42,10 +42,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuadev101&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadev101&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="top langs" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuadev101&theme=tokyonight" alt="profile details" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuadev101&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuadev101&theme=tokyonight" height="180em" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuadev101&theme=tokyonight&border_radius=10&hide_border=true" alt="streak stats" />
 </p>
