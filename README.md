@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Joshua Coronel</h1>
-<h3 align="center">☁️ Aspiring Cloud Engineer & DevOps Enthusiast | 🌍 Philippines</h3>
+<h3 align="center">☁️ Aspiring Cloud & DevOps Engineer| 🌍 Philippines</h3>
 
 ---
 
